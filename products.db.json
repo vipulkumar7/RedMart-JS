@@ -1,0 +1,792 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Men Black Pure Cotton T-shirt",
+            "brand": "Bewakoof",
+            "price": 319,
+            "description": "Black solid T-shirt, has a round neck, and short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12739102/2021/11/18/d2ecb579-2ebb-4a1e-85bc-df934004f3131637221939488-Bewakoof-Men-Black-Pure-Cotton-T-shirt-4371637221939421-7.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 120
+            }
+        },
+        {
+            "id": 2,
+            "title": "Men Blue Textured Polo Collar T-shirt",
+            "brand": "Levis",
+            "price": 1679,
+            "description": "Blue Tshirt for men, Self design self design, Regular length, collar",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14851154/2021/9/16/d10d5072-801d-4606-85c8-98de13151e841631795675491-Levis-Men-Tshirts-1391631795674898-3.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 259
+            }
+        },
+        {
+            "id": 3,
+            "title": "Men Green & Grey Striped Polo Collar T-shirt",
+            "brand": "Allen Solly",
+            "price": 699,
+            "description": "Green and grey striped T-shirt, has a polo collar, button closure and short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12279576/2020/9/30/a8871b9e-c3aa-4f4d-8542-b58f79e50e641601449695202-Allen-Solly-Men-Blue-Striped-Polo-Collar-T-shirt-93116014496-1.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 500
+            }
+        },
+        {
+            "id": 4,
+            "title": "Men Green Typography Printed T-shirt",
+            "brand": "Levis",
+            "price": 1099,
+            "description": "Green Tshirt for men, Typography printed, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14851112/2021/9/16/27ed92a1-2785-4623-a849-5457f84f3b691631795671536-Levis-Men-Tshirts-4311631795670955-1.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 430
+            }
+        },
+        {
+            "id": 5,
+            "title": "Men Maroon & Black Brand Logo Printed T-Shirt",
+            "brand": "United Colors of Benetton",
+            "price": 594,
+            "description": "Maroon and black T-shirt for men, Brand logo printed, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15192492/2021/9/8/0321d770-6cd3-405d-bebd-92ed8124658e1631081166354UnitedColorsofBenettonMenMaroonBlackBrandLogoPrintedT-Shirt1.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 400
+            }
+        },
+        {
+            "id": 6,
+            "title": "Men Charcoal Henley Neck Slim Fit T-shirt",
+            "brand": "Mufti",
+            "price": 2899,
+            "description": "Charcoal Tshirt for men, Solid, Regular length, Henley neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16380356/2021/12/6/bcaf8b4a-09f9-482d-a8a6-122e2ca2753c1638786521012MuftiMenCharcoalHenleyNeckSlimFitT-shirt1.jpg",
+            "rating": {
+                "rate": 3.8,
+                "count": 70
+            }
+        },
+        {
+            "id": 7,
+            "title": "Men Black & White Printed Brooklyn Nets Kevin Durant Pure Cotton NBA T-shirt",
+            "brand": "Nike",
+            "price": 1795,
+            "description": "Black and white Brooklyn Nets Kevin Durant NBA Tshirt for men, Sports printed, Regular length",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15894036/2021/11/12/b6a8f49d-9748-4e34-8510-551ab4b64c101636699584050BrooklynNetsMensNikeNBAT-Shirt1.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 400
+            }
+        },
+        {
+            "id": 8,
+            "title": "Men Yellow Brand Logo Printed T-shirt",
+            "brand": "Nike",
+            "price": 1295,
+            "description": "Yellow Tshirt for men, Graphic printed, Regular length",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15764638/2021/10/25/2e55e3f3-363d-4452-a7ee-a9c8870e60a01635151616992-Nike-Men-Tshirts-4191635151616600-1.jpg",
+            "rating": {
+                "rate": 3.8,
+                "count": 100
+            }
+        },
+        {
+            "id": 9,
+            "title": "Men Off-White Printed Hood T-shirt",
+            "brand": "WROGN",
+            "price": 769,
+            "description": "Off-white printed T-shirt, has a hood, and short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10188253/2019/9/26/1c589968-d8a0-43e6-acc6-8a22494c85a81569502754494-WROGN-Men-Off-White-Printed-Hood-T-shirt-1061569502752645-1.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 203
+            }
+        },
+        {
+            "id": 10,
+            "title": "Men Maroon & White Brand Logo Cotton Printed Outdoor T-shirt",
+            "brand": "ADIDAS",
+            "price": 959,
+            "description": "Maroon and white Tshirt for men, Brand logo printed, Regular length",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14790154/2021/9/17/f25d9469-b09c-4a20-b2d8-209b535b1a871631867535168-ADIDAS-Men-Tshirts-8291631867534777-3.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 470
+            }
+        },
+        {
+            "id": 11,
+            "title": "Men Black & Fluorescent Green POWER Brand Logo Printed T-shirt",
+            "brand": "Puma",
+            "price": 1274,
+            "description": "In a soft, sustainable cotton material, this sleek short-sleeved T-Shirt from PUMA's Power collection is perfect for making a statement.",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15118172/2021/8/26/81dca4d7-e145-4239-84d6-60c6eddaa3191629974467788-Puma-Men-Tshirts-1081629974467246-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 319
+            }
+        },
+        {
+            "id": 12,
+            "title": "Men Black Linen Pockets T-shirt",
+            "brand": "Levis",
+            "price": 1959,
+            "description": "Black Tshirt for men, Solid, Regular length",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14851092/2021/9/16/e8754bb9-f121-41a4-a5c1-9904246c317a1631796761653-Levis-Men-Tshirts-511631796761054-1.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 400
+            }
+        },
+        {
+            "id": 13,
+            "title": "Men Black Slim Fit Cotton T-shirt",
+            "brand": "WROGN",
+            "price": 824,
+            "description": "Black solid T-shirt, has a polo collar, short sleeves, 1 pocket",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2339490/2019/10/24/f7f8eed6-c0fe-4a1b-998e-f26b3dd2be7c1571915382775-WROGN-Men-Black-Solid-Slim-Fit-T-shirt-6291571915381757-1.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 250
+            }
+        },
+        {
+            "id": 14,
+            "title": "Men Green Solid Polo Collar T-shirt",
+            "brand": "Allen Solly",
+            "price": 539,
+            "description": "Green solid T-shirt, has a polo collar, short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10415686/2019/8/29/d67cfbbf-493e-45ed-a01d-f0ed006f9fa01567057750005-Allen-Solly-Men-Green-Solid-Polo-Collar-T-shirt-171567057748-1.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 140
+            }
+        },
+        {
+            "id": 15,
+            "title": "Men Black Brand Logo Embroidered Polo Collar T-shirt",
+            "brand": "Tommy Hilfiger",
+            "price": 3199,
+            "description": "Black Tshirt for men, Embroidered, Regular length, Polo collar",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15139994/2021/10/29/7b6f45fa-5c63-4a52-b0e6-f65db4b392fc1635486370725-Tommy-Hilfiger-Men-Tshirts-7091635486370274-1.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 235
+            }
+        },
+        {
+            "id": 16,
+            "title": "Men White & Blue Brand Logo Printed OVRSPRY T-shirt",
+            "brand": "ADIDAS",
+            "price": 1104,
+            "description": "White and blue Tshirt for men, Brand logo printed, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14790336/2021/9/17/d4e174d9-ab6b-491d-9039-88b12df05d941631865147773-ADIDAS-Men-Tshirts-6931631865147254-1.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 340
+            }
+        },
+        {
+            "id": 17,
+            "title": "Men Black & Blue Brand Logo Printed Slim Fit Hooded T-shirt",
+            "brand": "WROGN",
+            "price": 959,
+            "description": "Black and blue Tshirt for men, Brand logo printed, Regular length, Hooded",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15069708/2021/11/2/7835a5fc-a556-45cc-860a-d4b4d82c886d1635845086254-WROGN-Men-Tshirts-4691635845085680-1.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 679
+            }
+        },
+        {
+            "id": 18,
+            "title": "Men Grey Self-design Round Neck Running T-shirt",
+            "brand": "ASICS",
+            "price": 1189,
+            "description": "Grey Tshirt for men, Self design self design, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15212424/2021/11/4/d4ad5e31-2a01-41c1-89e4-4973ce37c8061636003883432-ROUND-NECK-T-SHIRT-6361636003882963-1.jpg",
+            "rating": {
+                "rate": 3.6,
+                "count": 130
+            }
+        },
+        {
+            "id": 19,
+            "title": "Men Black Solid Standard Fit DRI-FIT AS M NK Round Neck Training T-shirt",
+            "brand": "Nike",
+            "price": 1495,
+            "description": "Black solid T-shirt, has a round neck, long sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10139187/2019/7/12/9a2ddf36-d5be-4e0a-95e5-99d7f466628a1562924692056-Nike-Dri-FIT-Legend-20--Mens-Long-Sleeve-Training-Top-340156-1.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 146
+            }
+        },
+        {
+            "id": 20,
+            "title": "Men Off-White Solid Round Neck Sustainable T-shirt",
+            "brand": "Jack & Jones",
+            "price": 679,
+            "description": "Off-White solid T-shirt, has a round neck, short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8860521/2019/3/14/0cf9dda0-c4cd-4ef1-9659-f25cbb405d531552546240061-Jack--Jones-Men-Off-White-Solid-Round-Neck-T-shirt-114155254-1.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 145
+            }
+        },
+        {
+            "id": 21,
+            "title": "HRX by Hrithik Roshan",
+            "price": 700,
+            "description": "Stay fresh from start to finish with the HRX Men's Active T-shirt. Crafted with Rapid dry technology, this T-shirt wicks away sweat to keep you cool and dry no matter how far you run.",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5842076/2018/12/20/353cd269-5498-4aa9-a6ca-c503fcd2f2c61545286560719-HRX-by-Hrithik-Roshan-Men-White-Rapid-Dry-Camo-Training-T-sh-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 22,
+            "title": "Men Red & Black Printed Slim Fit Pure Cotton T-shirt",
+            "brand": "WROGN",
+            "price": 699,
+            "description": "Red and black Tshirt for men, Geometric printed Regular length Round neck Short, regular sleeves Woven cotton fabric",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15076078/2021/11/12/c1ed198e-b2ab-418f-983b-2bdfca1ebd281636694096547-WROGN-Men-Tshirts-9111636694096101-1.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 145
+            }
+        },
+        {
+            "id": 23,
+            "title": "Men Blue & Yellow Printed Round Neck T-shirt",
+            "brand": "Flying Machine",
+            "price": 799,
+            "description": "Blue and Yellow printed T-shirt, has a round neck, and short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/6/bb478bc8-9e78-47fc-a3ab-b34c5cc8f7491604629961432-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 24,
+            "title": "Men Off-White Printed Round Neck T-shirt",
+            "brand": "WROGN",
+            "price": 399,
+            "description": "Off-white printed T-shirt, has a round neck, short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2338895/2018/6/11/b2ea48fb-da03-4d45-8c80-35349f2d79fc1528719894236-WROGN-Men-Off-White-Printed-Round-Neck-T-shirt-2915287198923-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 25,
+            "title": "Men Grey Melange Self Design Welt Pocket T-shirt",
+            "brand": "WROGN",
+            "price": 699,
+            "description": "Grey melange self-design T-shirt, has a round neck, long sleeves, 1 pocket",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1894413/2017/6/20/11497943671766-WROGN-Men-Grey-Melange-Self-Design-Round-Neck-T-shirt-881497943671356-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 26,
+            "title": "Men Navy Blue FND Vector Polo Collar Slim Fit T-shirt",
+            "brand": "Reebok",
+            "price": 934,
+            "description": "Navy blue Tshirt for men, Solid Regular length, Polo collar, Short, regular sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15635070/2021/11/29/06206cf4-32fd-483b-8d0b-48fa83d171b51638163167349TshirtsReebokMenJacketsReebokMenJacketsReebokMenJacketsReebo1.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 145
+            }
+        },
+        {
+            "id": 27,
+            "title": "Men Grey & White Brand Logo Printed Pure Cotton Round Neck T-shirt",
+            "brand": "Tommy Hilfiger",
+            "price": 1899,
+            "description": "Grey and white Tshirt for men, Brand logo solid, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9320359/2021/11/29/b707057d-295c-4e52-8a28-6404a3ecdea31638167343480-Tommy-Hilfiger-Men-Tshirts-4441638167342992-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 28,
+            "title": "Men Yellow Colourblocked Pure Cotton Polo Collar T-shirt",
+            "brand": "United Colors of Benetton",
+            "price": 1699,
+            "description": "Yellow and navy blue Tshirt for men, Colourblocked, Regular length, Polo collar",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15341008/2021/11/25/a971916f-15d9-495d-9561-d6ca5458b4ef1637836037150SweatersUnitedColorsofBenettonMenSweatersUnitedColorsofBenet1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 29,
+            "title": "Men White Brand Logo Printed Classics Graphics Infill T-shirt",
+            "brand": "Puma",
+            "price": 1259,
+            "description": "White Tshirt for men, Brand logo printed,  length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13502500/2021/10/29/de836f1a-d9a6-4c99-aab2-5ff7d3d17ec31635491943964-Puma-Men-Tshirts-111635491943394-3.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 30,
+            "title": "Men Navy Blue & White Brand Logo Printed T-shirt",
+            "brand": "Nike",
+            "price": 995,
+            "description": "Navy blue and white Tshirt for men, Brand logo printed, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15170382/2021/10/29/6d1e8ca3-0464-424d-b49d-cf1ccef457d61635494648442-Nike-Dri-FIT-Academy-Mens-Short-Sleeve-Soccer-Top-4121635494-1.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 145
+            }
+        },
+        {
+            "id": 31,
+            "title": "Men White Solid Round Neck T-shirt",
+            "brand": "United Colors of Benetton",
+            "price": 604,
+            "description": "White solid T-shirt, has a round neck, and short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12940768/2020/11/25/33037255-8601-45cd-809f-c5b60aa0305d1606294681119-United-Colors-of-Benetton-Men-Tshirts-5791606294679930-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 32,
+            "title": "Men Red Printed Slim Fit RCB Replica Jersey V-Neck T-shirt",
+            "brand": "Puma",
+            "price": 1259,
+            "description": "Red and Black printed T-shirt has a V-neck short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13971578/2021/4/6/248ce33e-48e7-4151-a1a0-0df964c8222c1617705074553-Puma-Men-Tshirts-8221617705073367-1.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 33,
+            "title": "Men Blue & Black MUFC 3 JSY Printed Football T-shirt",
+            "brand": "ADIDAS",
+            "price": 4249,
+            "description": "Blue and black Football Tshirt for men, Sports and team jersey",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14790010/2021/11/10/f554aa84-a917-4d9c-a162-add10e28b3e41636538422971-ADIDAS-Men-Tshirts-5041636538422581-3.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 145
+            }
+        },
+        {
+            "id": 34,
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "brand": "WROGN",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 35,
+            "title": "Mens Casual Premium Slim Fit T-Shirts",
+            "brand": "WROGN",
+            "price": 22.3,
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 259
+            }
+        },
+        {
+            "id": 36,
+            "title": "Mens Cotton Jacket",
+            "brand": "WROGN",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 500
+            }
+        },
+        {
+            "id": 37,
+            "title": "Mens Casual Slim Fit",
+            "brand": "WROGN",
+            "price": 15.99,
+            "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 2.1,
+                "count": 430
+            }
+        },
+        {
+            "id": 38,
+            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "brand": "WROGN",
+            "price": 695,
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 400
+            }
+        },
+        {
+            "id": 39,
+            "title": "Solid Gold Petite Micropave",
+            "brand": "WROGN",
+            "price": 168,
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 70
+            }
+        },
+        {
+            "id": 40,
+            "title": "White Gold Plated Princess",
+            "brand": "WROGN",
+            "price": 9.99,
+            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 400
+            }
+        },
+        {
+            "id": 41,
+            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "brand": "WROGN",
+            "price": 10.99,
+            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 1.9,
+                "count": 100
+            }
+        },
+        {
+            "id": 42,
+            "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+            "brand": "WROGN",
+            "price": 64,
+            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "rating": {
+                "rate": 3.3,
+                "count": 203
+            }
+        },
+        {
+            "id": 43,
+            "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+            "brand": "WROGN",
+            "price": 109,
+            "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 470
+            }
+        },
+        {
+            "id": 44,
+            "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+            "brand": "WROGN",
+            "price": 109,
+            "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 319
+            }
+        },
+        {
+            "id": 45,
+            "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+            "brand": "WROGN",
+            "price": 114,
+            "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 400
+            }
+        },
+        {
+            "id": 46,
+            "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+            "brand": "WROGN",
+            "price": 599,
+            "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 250
+            }
+        },
+        {
+            "id": 47,
+            "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED",
+            "brand": "WROGN",
+            "price": 999.99,
+            "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.2,
+                "count": 140
+            }
+        },
+        {
+            "id": 48,
+            "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "brand": "WROGN",
+            "price": 56.99,
+            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 2.6,
+                "count": 235
+            }
+        },
+        {
+            "id": 49,
+            "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "brand": "WROGN",
+            "price": 29.95,
+            "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 340
+            }
+        },
+        {
+            "id": 50,
+            "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "brand": "WROGN",
+            "price": 39.99,
+            "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "rating": {
+                "rate": 3.8,
+                "count": 679
+            }
+        },
+        {
+            "id": 51,
+            "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+            "brand": "WROGN",
+            "price": 9.85,
+            "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 130
+            }
+        },
+        {
+            "id": 52,
+            "title": "Opna Women's Short Sleeve Moisture",
+            "brand": "WROGN",
+            "price": 7.95,
+            "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 146
+            }
+        },
+        {
+            "id": 53,
+            "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+            "brand": "WROGN",
+            "price": 12.99,
+            "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "rating": {
+                "rate": 3.6,
+                "count": 145
+            }
+        }
+    ],
+    "quotes": [
+        {
+            "name": "AB De Villiers",
+            "id": 1,
+            "quote": "After 114 Test matches, 228 ODIs, and 78 T20 Internationals, it is time for others to take over. I have had my turn, and to be honest, I am tired.",
+            "rating": 4,
+            "image": "https://p.imgci.com/db/PICTURES/CMS/157600/157635.jpg"
+        },
+        {
+            "name": "Virat Kohli",
+            "id": 2,
+            "quote": "AB de Villiers is the best batsman in the world and he shows it Again and Again” – Virat Kohli",
+            "rating": 4,
+            "image": "https://www.cricket.com.au/-/media/Players/Men/International/India/ODIWC19/Virat-Kohli-CWC19.ashx"
+        },
+        {
+            "name": "K L Rahul",
+            "id": 3,
+            "quote": "It is a very happy feeling that a legend like Rahul Dravid talks highly about me. But I can't just sit back and be happy about it. I have to back it up with my performances.",
+            "rating": 4,
+            "image": "https://pbs.twimg.com/profile_images/1133689777453244418/SM9qhc-P_400x400.jpg"
+        }
+    ],
+    "cart": [
+        {
+            "id": 3,
+            "title": "Men Green & Grey Striped Polo Collar T-shirt",
+            "brand": "Allen Solly",
+            "price": 699,
+            "description": "Green and grey striped T-shirt, has a polo collar, button closure and short sleeves",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12279576/2020/9/30/a8871b9e-c3aa-4f4d-8542-b58f79e50e641601449695202-Allen-Solly-Men-Blue-Striped-Polo-Collar-T-shirt-93116014496-1.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 500
+            },
+            "quantity": 1,
+            "size": "Small"
+        },
+        {
+            "id": 6,
+            "title": "Men Charcoal Henley Neck Slim Fit T-shirt",
+            "brand": "Mufti",
+            "price": 2899,
+            "description": "Charcoal Tshirt for men, Solid, Regular length, Henley neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16380356/2021/12/6/bcaf8b4a-09f9-482d-a8a6-122e2ca2753c1638786521012MuftiMenCharcoalHenleyNeckSlimFitT-shirt1.jpg",
+            "rating": {
+                "rate": 3.8,
+                "count": 70
+            },
+            "quantity": 2,
+            "size": "Medium"
+        },
+        {
+            "id": 4,
+            "title": "Men Green Typography Printed T-shirt",
+            "brand": "Levis",
+            "price": 1099,
+            "description": "Green Tshirt for men, Typography printed, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14851112/2021/9/16/27ed92a1-2785-4623-a849-5457f84f3b691631795671536-Levis-Men-Tshirts-4311631795670955-1.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 430
+            },
+            "quantity": 3,
+            "size": "Large"
+        },
+        {
+            "id": 8,
+            "title": "Men Yellow Brand Logo Printed T-shirt",
+            "brand": "Nike",
+            "price": 1295,
+            "description": "Yellow Tshirt for men, Graphic printed, Regular length",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15764638/2021/10/25/2e55e3f3-363d-4452-a7ee-a9c8870e60a01635151616992-Nike-Men-Tshirts-4191635151616600-1.jpg",
+            "rating": {
+                "rate": 3.8,
+                "count": 100
+            },
+            "quantity": 4,
+            "size": "XL"
+        },
+        {
+            "id": 5,
+            "title": "Men Maroon & Black Brand Logo Printed T-Shirt",
+            "brand": "United Colors of Benetton",
+            "price": 594,
+            "description": "Maroon and black T-shirt for men, Brand logo printed, Regular length, Round neck",
+            "category": "T-shirt",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15192492/2021/9/8/0321d770-6cd3-405d-bebd-92ed8124658e1631081166354UnitedColorsofBenettonMenMaroonBlackBrandLogoPrintedT-Shirt1.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 400
+            },
+            "quantity": 5,
+            "size": "XXL"
+        }
+    ]
+}
